@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "26d207ccc4064bf23a3c9d88647938d119ee192d4f364154c6db5eb392f4b87b"
+file = "mods/3dskinlayers.pw.toml"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -122,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-jei-plugin.pw.toml"
-hash = "e2e8b83d610a726b1bc18030bfb43fe1db27c769436813c29c0c0c03eea6f148"
 metafile = true
 
 [[files]]
@@ -322,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "0d99b850e2b3845a56f47997481e6c0814762cd809029f5fbce8a359620ef5ac"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "c7779da4fc55cd62dd3941717e857458b38c0fbbfc0221b6f265c8c6a7498cb6"
 metafile = true
 
 [[files]]
