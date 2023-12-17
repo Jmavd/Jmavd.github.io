@@ -1,0 +1,13 @@
+name = "PlaceholderName"
+author = "jmavd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2b7fc257117461ac9e8b633ec7ff0cdf89aea3dd4fe6862ed4c7917cf2cdf7ca"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.23.0-beta.1"
