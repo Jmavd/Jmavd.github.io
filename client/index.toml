@@ -16,13 +16,18 @@ hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "e9698a6975a50ef662ad0c02150aa1b42b62297c5170e0c158bbfaacc747a596"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "dd29261fd94cf6712a07ff0147334e4d1b0049a67c365612c998f49316b79337"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "a10610a309f11ae258ed715b32cba535ebd102f73b04b52aef169837806c2ec5"
+file = "mods/bellsandwhistles.pw.toml"
+hash = "eb0d74103b07e202b36d7e7e0957afc054d9622acf8ecb738e5856b5144a7b3b"
 metafile = true
 
 [[files]]
@@ -103,21 +108,6 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "b56a8c41fbc730aac25745a44efc56214da5f903a33f700806937a6d49d94101"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
 metafile = true
 
 [[files]]
@@ -353,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
 metafile = true
 
 [[files]]
