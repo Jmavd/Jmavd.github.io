@@ -1,0 +1,11 @@
+{
+    "name": "True Pact",
+    "description": "Your soul is sold, this pact is §4§lpermanent§r. (can still be removed with the Pactbreaker)",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:ingredient",
+    	"ingredient": {
+        	"item": "kubejs:faust_scroll"
+   	}
+    }
+}

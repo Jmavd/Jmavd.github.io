@@ -1,0 +1,13 @@
+name = "CraftPresence"
+filename = "CraftPresence-2.5.2+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a33de923d95cebe2b6905c6c3064794999e1cbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5947506
+project-id = 297038

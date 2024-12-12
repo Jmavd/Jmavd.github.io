@@ -1,0 +1,50 @@
+{
+    "name": "Devil's Blessing",
+    "description": "You cannot be killed by anything except for fire, magic, or void.",
+    "type": "origins:prevent_death",
+    "damage_condition": {
+    	"type": "origins:or",
+    	"inverted": true,
+    	"conditions": [
+    		{
+    		  "type": "origins:out_of_world"
+    		},
+    		{
+    		  "type": "origins:fire"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "wither"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "witherSkull"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "indirectMagic"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "indirectMagic.item"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "magic"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "magic.player"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "starve"
+    		},
+    		{
+    		  "type": "origins:name",
+    		  "name": "starve.player"
+    		}
+    	]
+    }
+    
+}

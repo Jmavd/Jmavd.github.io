@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "faust:fast",
+        "faust:rushing"
+    ],
+    "icon": {
+        "item": "minecraft:sugar_cane"
+    },
+    "order": 2,
+    "impact": 1,
+    "name": "Pact of Speed",
+    "description": "Increased speed, at the cost of XP."
+}

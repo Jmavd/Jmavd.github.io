@@ -1,0 +1,27 @@
+{
+  "loading_priority": 10,
+  "type": "origins:phasing",
+  "description": "While phantomized, you can walk through solid materials, except for Obsidian and Obsidian Infused blocks.",
+  "blacklist": true,
+  "render_type": "blindness",
+  "view_distance": 10,
+  "block_condition": {
+    "type": "origins:in_tag",
+    "tag": "origins:unphasable"
+  },
+  "phase_down_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:sneaking"
+      },
+      {
+        "type": "origins:on_block"
+      }
+    ]
+  },
+  "condition": {
+    "type": "origins:power_active",
+    "power": "*:phantomize"
+  }
+}

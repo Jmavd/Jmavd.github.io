@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:barrier",
+    "minecraft:bedrock",
+    "minecraft:crying_obsidian",
+    "minecraft:obsidian",
+    "kubejs:warded_stone",
+    "kubejs:warded_cobblestone"
+  ]
+}

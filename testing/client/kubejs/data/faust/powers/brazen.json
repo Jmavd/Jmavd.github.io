@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "name": "Brazen",
+    "description": "You deal 33% more melee damage.",
+    "modifier": {
+        "name": "Pact damage boost",
+        "operation": "multiply_total",
+        "value": 0.33
+    }
+}

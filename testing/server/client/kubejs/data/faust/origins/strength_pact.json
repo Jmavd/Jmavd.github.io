@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "faust:brazen",
+        "faust:reckless"
+    ],
+    "icon": {
+        "item": "minecraft:iron_axe"
+    },
+    "order": 5,
+    "impact": 1,
+    "name": "Pact of Strength",
+    "description": "Deal extra damage, but take extra damage."
+}

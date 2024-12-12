@@ -1,0 +1,9 @@
+{
+    "name": "Efficient",
+    "description": "Your mining speed is increased by 33%.",
+    "type": "origins:modify_break_speed",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.33
+    }
+ }

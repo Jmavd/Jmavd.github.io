@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "faust:efficient",
+        "faust:single-minded"
+    ],
+    "icon": {
+        "item": "minecraft:diamond_pickaxe"
+    },
+    "order": 3,
+    "impact": 1,
+    "name": "Pact of Haste",
+    "description": "Increased haste, at the cost of damage."
+}
