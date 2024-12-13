@@ -3,8 +3,8 @@ filename = "paradise-lost-2.2.1-beta+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "75e202ead2554859fb2b2a98fd9aa1a7f2fa36c6"
+hash-format = "sha256"
+hash = "a1453f4620b6bdfb6136edf2fedf4bf4315087239eed0f93d64e91d1f350df17"
 mode = "metadata:curseforge"
 
 [update]

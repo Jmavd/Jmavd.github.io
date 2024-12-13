@@ -3,8 +3,8 @@ filename = "CraftPresence-2.5.2+1.19.2-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a33de923d95cebe2b6905c6c3064794999e1cbe"
+hash-format = "sha256"
+hash = "39e5e89e9a119fa21bedeb2d65f763e2a694595aa87822cfb7bf519eedd3e461"
 mode = "metadata:curseforge"
 
 [update]

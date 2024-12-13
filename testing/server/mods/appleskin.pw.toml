@@ -3,8 +3,8 @@ filename = "appleskin-fabric-mc1.19.2-2.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4ee602338d2fff9b4cb15f69aeb5c6b6c873772"
+hash-format = "sha256"
+hash = "11e0604e3bf8d97751f864f8e6cf8228448099c0ef56fbb31d7eb2bcf5021782"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "enhancedblockentities-0.7.2+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fde7ffee932782c7718fd0596864aa9058b7b93c"
+hash-format = "sha256"
+hash = "d30d07ab73462580a52f73ba95a14c10a87ed3c70c7a386f40afd1308a9c1506"
 mode = "metadata:curseforge"
 
 [update]

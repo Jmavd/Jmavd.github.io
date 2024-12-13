@@ -3,8 +3,8 @@ filename = "sound-physics-remastered-fabric-1.19.2-1.4.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a4b713c7d5b301eebc1b6094170f93c9fbd52c4"
+hash-format = "sha256"
+hash = "0db06590eadb60de6b3b97a0c0bd7db8cde4b4045d619ece7b045bab55da189b"
 mode = "metadata:curseforge"
 
 [update]

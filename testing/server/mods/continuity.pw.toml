@@ -3,8 +3,8 @@ filename = "continuity-2.0.2+1.19.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "b7f4060c66eee13fa1385da89090560de30358e1"
+hash-format = "sha256"
+hash = "8ff8aed276f8516c39bf2a1e780d0ce98949b7854664f1a0a50f6a67d846ca10"
 mode = "metadata:curseforge"
 
 [update]

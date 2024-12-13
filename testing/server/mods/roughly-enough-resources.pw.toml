@@ -3,8 +3,8 @@ filename = "rer-2.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4d7df7f6b4f838c8646e4fa7b86388e974e86f98"
+hash-format = "sha256"
+hash = "8cfa7245b7e227eca57f36624e8306b5710a1372be1daf14cd97408c069fc013"
 mode = "metadata:curseforge"
 
 [update]

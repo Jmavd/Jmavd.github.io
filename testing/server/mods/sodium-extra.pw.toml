@@ -3,8 +3,8 @@ filename = "sodium-extra-0.4.16+mc1.19.2-build.90.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
+hash-format = "sha256"
+hash = "b300f19b01aba000d212117a404c05bf81f783a2bb2fb8ea2a9ce4a4f9bc74c2"
 mode = "metadata:curseforge"
 
 [update]

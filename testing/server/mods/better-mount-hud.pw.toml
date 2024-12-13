@@ -3,8 +3,8 @@ filename = "bettermounthud-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "af91cf0d8944ce4d8d15592a0615174c26ce141a"
+hash-format = "sha256"
+hash = "dc9685721e87e31bffdf2d55cdcd299274e32c2cb51651488362653578c6b104"
 mode = "metadata:curseforge"
 
 [update]

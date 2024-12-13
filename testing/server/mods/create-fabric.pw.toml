@@ -3,8 +3,8 @@ filename = "create-fabric-0.5.1-i-build.1630+mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fe63f9afa5fc7c058156bfe8c3e9c883af803ad8"
+hash-format = "sha256"
+hash = "56132087fa41d893157d7d6be68cb79c0d2fccfb36968096d4b88dad4437d42f"
 mode = "metadata:curseforge"
 
 [update]

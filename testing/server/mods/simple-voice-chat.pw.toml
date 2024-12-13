@@ -3,8 +3,8 @@ filename = "voicechat-fabric-1.19.2-2.5.26.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1d1743e3bd5d0dbdb72fd07109d7578f604b7069"
+hash-format = "sha256"
+hash = "56240ea96b1e3ee311bfef4ae2215b9de298c7ccfc178a617ea3e73396eec9c7"
 mode = "metadata:curseforge"
 
 [update]

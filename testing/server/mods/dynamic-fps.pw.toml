@@ -3,8 +3,8 @@ filename = "dynamic-fps-3.7.7+minecraft-1.19.0-fabric.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "3e8f7f0c170d65769a4c7447f5847d06f348f46c"
+hash-format = "sha256"
+hash = "42f82680039bf84359b1a14797aed719cebc703f17a13769407984742f6ce6e1"
 mode = "metadata:curseforge"
 
 [update]

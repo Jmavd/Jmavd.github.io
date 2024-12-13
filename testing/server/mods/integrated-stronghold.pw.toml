@@ -3,8 +3,8 @@ filename = "integrated_stronghold_fabric-1.0.2+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4b7f3e07ad2cf77d3e6967917099cc15ce96dba"
+hash-format = "sha256"
+hash = "e801f2cf22d373f9e48fcf3cb01f97b8b2bd1f033e8429137655e1e5a6233e09"
 mode = "metadata:curseforge"
 
 [update]

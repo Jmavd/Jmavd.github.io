@@ -3,8 +3,8 @@ filename = "CullLessLeaves-1.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e721078b00197fbd71e294b5ab4702b6b64a0b71"
+hash-format = "sha256"
+hash = "96e6e4534800dd51c8abb63199afaea78984d8c312832a78dd8c59604408f533"
 mode = "metadata:curseforge"
 
 [update]

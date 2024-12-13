@@ -3,8 +3,8 @@ filename = "kubejs-fabric-1902.6.2-build.73.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aad3e6c4ad7e26f8aae771500d98f4553a59396b"
+hash-format = "sha256"
+hash = "d9282ea8d05a415055a9d63542e01ba84e8f259aade8167251353b385bc529d7"
 mode = "metadata:curseforge"
 
 [update]

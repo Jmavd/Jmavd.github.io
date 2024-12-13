@@ -3,8 +3,8 @@ filename = "moonlight-1.19.2-2.3.7-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0c5296c03fa2635dcee0901d8591aec5d25de779"
+hash-format = "sha256"
+hash = "d7687649afc8a7fa97be7442719406bfa4c99ec448e630bea2e52c8e39a22356"
 mode = "metadata:curseforge"
 
 [update]

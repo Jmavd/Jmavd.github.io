@@ -3,8 +3,8 @@ filename = "modmenu-4.2.0-beta.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
+hash-format = "sha256"
+hash = "d16f8f606270e60c1c85f7ad985387d267ae2ad0e0607396eec1366c8e207792"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "holdthatchunk-2.0.1+1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b045e7ac468a78922515c180d4403f8380ec9fec"
+hash-format = "sha256"
+hash = "44a388fd827e7db0768e0be3b841cfb6b1dba6dbf94c93095f9bf4353b6bcde8"
 mode = "metadata:curseforge"
 
 [update]

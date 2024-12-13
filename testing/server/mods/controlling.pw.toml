@@ -3,8 +3,8 @@ filename = "Controlling-fabric-1.19.2-10.0+7.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "73b4c80d6d834a10fce677cd205d4eabe9c6d8a0"
+hash-format = "sha256"
+hash = "580230581160eead4719d51d5b70e39bf7a1207f956e8a74bf9a56763607f263"
 mode = "metadata:curseforge"
 
 [update]

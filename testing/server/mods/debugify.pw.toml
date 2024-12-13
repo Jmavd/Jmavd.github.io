@@ -3,8 +3,8 @@ filename = "Debugify-2.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "34bed20ce5145eeaac14ada47aa9f269ef2cc3b5"
+hash-format = "sha256"
+hash = "e3ef1f6595b9d49ec6aa487110bc6d361c4ff34ffcd3c4c101419688c71dc383"
 mode = "metadata:curseforge"
 
 [update]

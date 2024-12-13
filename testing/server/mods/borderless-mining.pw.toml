@@ -3,8 +3,8 @@ filename = "borderless-mining-1.1.5+1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "08f98e28057a0fbdb288c947b7871def4b18b176"
+hash-format = "sha256"
+hash = "3423a588e381225a61c99c060e54590514ef645b22301c7a1da8d1dd2912e20c"
 mode = "metadata:curseforge"
 
 [update]

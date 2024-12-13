@@ -3,8 +3,8 @@ filename = "midnightcontrols-1.7.4+1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc2ffef4d69cdd7e50de4891648003364133117c"
+hash-format = "sha256"
+hash = "01d457bc3c93f5ddeff7e1f10cbf0e4353e479b96acbb99a1e7d25c85cf94807"
 mode = "metadata:curseforge"
 
 [update]

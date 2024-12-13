@@ -3,8 +3,8 @@ filename = "YetAnotherConfigLib-2.2.0-for-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bcb8adacdb11b49fde416df76a55f6bc0ca48cfd"
+hash-format = "sha256"
+hash = "0a8102f86d50ab01ab02d5e8f47fc658e2e40360e86de7bc399bfe7737c56d9a"
 mode = "metadata:curseforge"
 
 [update]

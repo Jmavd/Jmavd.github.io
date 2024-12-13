@@ -3,8 +3,8 @@ filename = "supplementaries-1.19.2-2.4.21-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fae604ee5b0add35616a999506ed638c5b229053"
+hash-format = "sha256"
+hash = "896d53b4526145f413e219f3bc3f429a2a3ed155282a2ee0a718e8dbee32774a"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b3e82b1a9a226575dff81690559281d02e417e23"
+hash-format = "sha256"
+hash = "6fda8630dffc3c1b76a4595a2f20a7ec7db27412f35c1820eeacb85b0c71910c"
 mode = "metadata:curseforge"
 
 [update]

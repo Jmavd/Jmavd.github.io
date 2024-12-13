@@ -3,8 +3,8 @@ filename = "memoryleakfix-fabric-1.17+-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "899018ccd70447efe2f198701aeb52bd5eed7c12"
+hash-format = "sha256"
+hash = "44f10d648e342f9876c8885b235dd6dd7866362e91958242159670f251559366"
 mode = "metadata:curseforge"
 
 [update]

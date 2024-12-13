@@ -3,8 +3,8 @@ filename = "Croptopia-1.19.2-FABRIC-2.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "726c6268da4b0023ea166ca9bc00f5b10e97cfca"
+hash-format = "sha256"
+hash = "70a17bca7a84bda19c15f1177dc08821f09cde181cd8ce9230d676726b0d431f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "RoughlyEnoughTrades-1.19-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48b9b7086431d1de129b4e3c180a97edd91a646b"
+hash-format = "sha256"
+hash = "b1b7b33c2eec32571fd25b56cd22171c8ecca470c955c3cc9bba0386d59ba82c"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "open-parties-and-claims-fabric-1.19.2-0.23.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b5986c03f2d2bf1be3f75b425e6e9d855406ec26"
+hash-format = "sha256"
+hash = "92d71d1e92e51400cd713c07ecac8b755ca6087378a2a9afadcc0fbc6ad25b0e"
 mode = "metadata:curseforge"
 
 [update]

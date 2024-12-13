@@ -3,8 +3,8 @@ filename = "antighost-1.19.1-fabric0.58.5-1.1.5.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "de93b03bbb5d5673d5b7a48e1b4ebb25a7353ce8"
+hash-format = "sha256"
+hash = "98f729637b6a6023862eb14e2a892b76fcf56fdfd5ad659a7cdd47ac28fcf026"
 mode = "metadata:curseforge"
 
 [update]

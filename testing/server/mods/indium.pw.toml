@@ -3,8 +3,8 @@ filename = "indium-1.0.9+mc1.19.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+hash-format = "sha256"
+hash = "e0bee321e771ca46c4117a469cd916a71f8ce44cbfd35c006425775edfb79b50"
 mode = "metadata:curseforge"
 
 [update]

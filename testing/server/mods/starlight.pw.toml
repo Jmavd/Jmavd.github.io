@@ -3,8 +3,8 @@ filename = "starlight-1.1.1+fabric.ae22326.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de6fe932555604345477db89b59d59249909c640"
+hash-format = "sha256"
+hash = "f2dd6682941326a833aaba868339b4ad9c93882fdef4447120ca0a8dea633a42"
 mode = "metadata:curseforge"
 
 [update]

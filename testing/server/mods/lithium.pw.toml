@@ -3,8 +3,8 @@ filename = "lithium-fabric-mc1.19.2-0.11.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "072a8bad252765e0f21a6f939cf2056fe437228e"
+hash-format = "sha256"
+hash = "7ee6a12cc5dabd0bcd6d368743270de08bc2dbac11d2b5c6d621841b8f448621"
 mode = "metadata:curseforge"
 
 [update]

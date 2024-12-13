@@ -3,8 +3,8 @@ filename = "Origins-1.19.2-1.7.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b1410b30daeb585da247d0c48a3a9fe2f650fede"
+hash-format = "sha256"
+hash = "ed3db688d27b456a0c261322ee3e4f9ccce7b2c036a3b3362b5a39fda4f161a9"
 mode = "metadata:curseforge"
 
 [update]

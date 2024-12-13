@@ -3,8 +3,8 @@ filename = "NoChatReports-FABRIC-1.19.2-v1.13.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "298232cc392f0240191ea62c9cd4d2ff4a99ba97"
+hash-format = "sha256"
+hash = "be82d90ed39ea9348907e88dd555476c6acbe9057d1938be4c957222786f0912"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "yosbr-0.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
+hash-format = "sha256"
+hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
 mode = "metadata:curseforge"
 
 [update]

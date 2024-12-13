@@ -3,8 +3,8 @@ filename = "Jade-1.19.1-fabric-8.7.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1b3cdd8639ff6083bcf68a76f76a38d1a0afcab7"
+hash-format = "sha256"
+hash = "e930691561b00868a322cfc77cdc1d5993fcfc1a222938a466a4ecfbc8dfe442"
 mode = "metadata:curseforge"
 
 [update]

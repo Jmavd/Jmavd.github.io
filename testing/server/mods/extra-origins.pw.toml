@@ -3,8 +3,8 @@ filename = "extraorigins-1.19-2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "245cccc2428bf0b2a567d778497fb18e97fb86e0"
+hash-format = "sha256"
+hash = "7e9e37171ed64962827762c95fa4bb1d8406d545c76197c94b01b9d7820d8e28"
 mode = "metadata:curseforge"
 
 [update]

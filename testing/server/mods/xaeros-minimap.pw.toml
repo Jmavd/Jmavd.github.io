@@ -3,8 +3,8 @@ filename = "Xaeros_Minimap_24.6.1_Fabric_1.19.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cbc75eaffb14d190a3ba84a2e80624e23eabfe45"
+hash-format = "sha256"
+hash = "263348c9f606fbb91cc2b27f3ffca02301d71da094368ce035ba1ff27a203f45"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "rhino-fabric-1902.2.3-build.284.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "03b223f7c10e0cce640a5d0c6cdd36cd2530b943"
+hash-format = "sha256"
+hash = "86d6f779a030220ef7c29e86b87f7a69e9d0a5d26597e1524272da21e2080eab"
 mode = "metadata:curseforge"
 
 [update]

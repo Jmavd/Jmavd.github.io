@@ -3,8 +3,8 @@ filename = "RoughlyEnoughItems-9.2.784-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "db2e02d500b204a4f139f1bf297cf2cfaf830427"
+hash-format = "sha256"
+hash = "af44639617c248379b6c82b4b9e3bd512fd005f17734975210332d98f7d59756"
 mode = "metadata:curseforge"
 
 [update]

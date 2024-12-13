@@ -3,8 +3,8 @@ filename = "opac-fabric-create-support-mc1.18-mc1.19-1.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ec7f51b963e3e60eee5abd1556b2e5ce2469f2ad"
+hash-format = "sha256"
+hash = "acbb8242418ce79e60147c9d06b1224106fea4793984407f70a39be79f332f8e"
 mode = "metadata:curseforge"
 
 [update]

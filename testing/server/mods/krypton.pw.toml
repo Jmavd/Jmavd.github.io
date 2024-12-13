@@ -3,8 +3,8 @@ filename = "krypton-0.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ebf02e469c028ea9e548401cacbb62e434874c08"
+hash-format = "sha256"
+hash = "683f7578ac010137328f1613ee8337473119f4c95986ab2fc46413b2a7831c9a"
 mode = "metadata:curseforge"
 
 [update]

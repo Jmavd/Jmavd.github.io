@@ -3,8 +3,8 @@ filename = "fabrishot-1.9.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e96bd70b49bbc49f13284b3a80bff974d0932ebd"
+hash-format = "sha256"
+hash = "0b628601abee507ac800747e71cd3edc6b19c44d5308e26696c0db9a6eb4e4c4"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "language-reload-1.6.1+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "87e1a58f10486c8ea93ee758feb9c6538fbb825e"
+hash-format = "sha256"
+hash = "fdbf8c900b864d247200bf0dd6fde0616374bf798178210dc9e74e2970e2fa8a"
 mode = "metadata:curseforge"
 
 [update]

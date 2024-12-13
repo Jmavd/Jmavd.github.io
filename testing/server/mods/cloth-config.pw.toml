@@ -3,8 +3,8 @@ filename = "cloth-config-8.3.134-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "570282f49b3338decfe8290e78c10a1d2f7e23c9"
+hash-format = "sha256"
+hash = "359b0e44d3595ddfacefdf1c703cb0b06d71c8a8bdb9fe17a61e0b8a6290e79b"
 mode = "metadata:curseforge"
 
 [update]

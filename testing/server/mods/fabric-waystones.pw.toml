@@ -3,8 +3,8 @@ filename = "wraith-waystones-3.0.8+mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c765c931ff2f54f2fdd2d892441bb41bb237d74"
+hash-format = "sha256"
+hash = "83d9c6bfc4a0bfdeaa3593825f16814a8f086cc87ead515492d9de999e689288"
 mode = "metadata:curseforge"
 
 [update]
