@@ -1,9 +1,0 @@
-{
-    "name": "Too Hasty",
-    "description": "You gain half as much experience.",
-    "type": "origins:modify_xp_gain",
-    "modifier": {
-        "operation": "multiply_total",
-        "value": -0.5
-    }
-}

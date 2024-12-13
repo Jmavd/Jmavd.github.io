@@ -1,7 +1,0 @@
-{
-    "name": "Devil's Eyes",
-    "description": "You see things differently...",
-    "type": "origins:shader",
-    "shader": "minecraft:shaders/post/blobs.json",
-    "toggleable": false
-}

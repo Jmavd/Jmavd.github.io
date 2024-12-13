@@ -1,7 +1,0 @@
-{
-  "type": "origins:exhaust",
-  "interval": 1,
-  "exhaustion": 0.015,
-  "name": "Ravenous",
-  "description": "You become hungry incredibly quickly, and become blind when you lose more than 4 shanks of hunger."
-}

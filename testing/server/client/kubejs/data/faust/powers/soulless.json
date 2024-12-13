@@ -1,5 +1,0 @@
-{
-    "name": "Soulless",
-    "description": "You can no longer regenerate naturally, only through magic means.",
-    "type": "origins:disable_regen"
-}
